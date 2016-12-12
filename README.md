@@ -1,7 +1,7 @@
 # AdventureWorks Travel Intelligent App Deployment
-## Part of the Cortana Intelligence Suite Workshop
+## Part of the Cortana Workshop
 
-This GitHub repo exists to deploy the web application that is part of the *Cortana Intelligence Suite Workshop*.  
+This GitHub repo exists to deploy the web application that is part of the *Cortana Workshop*.  
 
 You will also need to have created your free developer account at http://www.wunderground.com/weather/api/ and retrieved your developer API key.
 
