@@ -5,7 +5,7 @@ This GitHub repo exists to deploy the web application that is part of the *Corta
 
 You will also need to have created your free developer account at http://www.wunderground.com/weather/api/ and retrieved your developer API key.
 
-Once you have gathered the following information, you are ready to click the "Delpoy to Azure" button at the top/bottom of this page.
+Once you have gathered the following information, you are ready to click the "Delpoy to Azure" button at the bottom of this page.
 
 * Your Azure ML web service API key
 * Your Azure ML workspace ID
